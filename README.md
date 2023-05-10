@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+> LendingClub is a peer-to-peer lending company that connects borrowers with investors.
+In this case study we have analysed how the different factors like purpose, term, annual income etc have misstated data leading to no repayment of the loan.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,12 +11,19 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Problem Statement:
+A consumer finance company is specialised in lending various types of loans to customers. Whenever a loan application is received, the company has to make appropriate decision for approving the loan basis on applicant’s profile.
+Risks Involved:
+If the applicant is likely to repay the loan, then not approving the loan may result in loss of business to company.
+If the applicant is not likely to repay the loan, then approving the loan may result in financial loss to the company.
+Decision Made:
+    • Loan Accepted: If the company approves the loan:
+        ◦ Fully Paid
+        ◦ Current
+        ◦ Charged-Off
+    • Loan Rejected: If the company has rejected the loan.
+- The dataset being used is loan.csv
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -28,21 +35,22 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+• Python
+• Microsoft powerpoint presentation
+• Google Meet  
+• Microsoft excel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by upgrad.
 - References if any...
 - This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kuldeeplodha][@KomalMahawar] - feel free to contact me!
 
 
 <!-- Optional -->
