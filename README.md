@@ -25,10 +25,12 @@ The project aims to analyze data from Lending Club to identify which types of bo
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Lending Club should reduce high-interest or high- amount loans for 60 months tenure. There is high chances of loan default.
+- Loan for high amount and with high rate of interest should not be sanctioned to the borrowers having low grades (i.e. - E, F, G).
+- Loan sanctioned to smaller businesses with high loan amount or high interest rate is defaulted more likely. Therefore The loan amount should be reduced or the loan should not be sanctioned.
+- Borrowers having mortgage are more likely to default when the interest rate is high. So lending club should reduced the asked loan amount.
+- High loan amount and high rate of interest is  the key factor in defaulting the loan. Therefore the loan should be sanctioned for less loan amount and low rate of interest.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -52,7 +54,7 @@ Give credit here.
     4. https://www.lendingclub.com/company/about-us
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [https://github.com/kuldeeplodha, https://github.com/KomalMahawar] - feel free to contact us!
 
 
 <!-- Optional -->
